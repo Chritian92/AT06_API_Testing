@@ -8,8 +8,6 @@ def valid_link(text):
     for url in end_url:
         if url.lower().startswith('http://'):
             print("Is a valid url {} ".format(url))
-        else:
-            print("Is not a valid url {} ".format(text))
 
 
 valid_link(text)
