@@ -7,9 +7,3 @@ def generate_id(identifier, number: int):
         return identifier + str(number)
 
 
-def calculate_discount(self):
-    return (self.global_salary * 12.5)/100
-
-
-def calculate_net_salary(global_salary, discount):
-   return global_salary - discount
