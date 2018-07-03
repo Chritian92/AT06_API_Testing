@@ -1,4 +1,4 @@
-from ChristianGalarza.Python.Exam.Employee import *
+from ChristianGalarza.Exam.Employee import *
 
 
 class ProductionEmployee(Employee):
