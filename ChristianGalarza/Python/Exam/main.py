@@ -1,6 +1,6 @@
-from ChristianGalarza.Exam.EmployeeComercial import *
-from ChristianGalarza.Exam.EmployeeProduction import *
-from ChristianGalarza.Exam.Id_generator import *
+from ChristianGalarza.Python.Exam.EmployeeComercial import *
+from ChristianGalarza.Python.Exam.EmployeeProduction import *
+from ChristianGalarza.Python.Exam.Id_generator import *
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)

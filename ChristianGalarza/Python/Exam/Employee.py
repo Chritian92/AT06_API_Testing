@@ -1,4 +1,4 @@
-from ChristianGalarza.Exam.Person import *
+from ChristianGalarza.Python.Exam.Person import *
 
 
 logging.basicConfig(level=logging.DEBUG)

@@ -1,0 +1,49 @@
+When and why BDD was defined
+A BDD is defined when the whole team (PO, QA, Dev) work together
+and with fewer barriers in the development of a software or a function,
+avoiding misunderstandings.
+
+The most important aspects of BDD
+
+The most important aspects is that it is a kind of similar software development
+to TDD but combined with accepting testing.
+
+
+Why is it useful and could it be applied?
+To ensure that it meets all the requirements of the end user.
+
+
+Which type of teams could implement BDD
+The teams that have the time to gather the team members
+to be able to coordinate, you can not use this software development system
+for teams that team members can not coordinate.
+
+
+Structure of a scenario
+
+    Given I have all services up
+    When I GET to login
+    And I send the request
+
+
+Differences between BDD and BDT
+Behavior-driven development (BDD) is an agile testing methodology. 
+BDT - Behavior driven testing, usually come after / during BDD 
+(Behavior Driven development) but it is not necessary, it can be organized 
+with traditional testing as well.
+
+BDD is a process of development based on test-driven development (TDD). 
+BDD blends main standards of test-driven development and ideas from 
+domain-driven design and object-oriented analysis to provide software 
+developers and business analysts with shared tools and a shared process
+to collaborate on software development.
+
+The goal of BDT is a business readable and domain specific language
+that allows you to describe a behavior of a system without putting 
+details on how that behavior is developed.
+
+In BDT, Tests in the form of simple text features/descriptions 
+with scenarios are typically written before anything else and 
+checked by the non-technical shareholders.
+
+
